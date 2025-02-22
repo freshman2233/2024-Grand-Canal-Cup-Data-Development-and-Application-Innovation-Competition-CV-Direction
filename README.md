@@ -14,6 +14,8 @@
 
 最终排名142/522，实现了高级预处理和超参数调优，增强F1和MOTA指标。
 
+比赛链接: https://www.marsbigdata.com/competition/details?id=3839107548872
+
 # 2.比赛简介
 
 **一、赛事背景**

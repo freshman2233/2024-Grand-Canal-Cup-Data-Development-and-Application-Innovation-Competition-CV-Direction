@@ -14,6 +14,8 @@ The system should utilize advanced image processing and computer vision technolo
 
 The final ranking was **142/522**, achieving advanced preprocessing and hyperparameter tuning, which enhanced the **F1** and **MOTA** metrics.
 
+**Competition Link**: https://www.marsbigdata.com/competition/details?id=3839107548872
+
 ## 2. Competition Overview
 
 ### **I. Background**
