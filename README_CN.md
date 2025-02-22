@@ -24,9 +24,9 @@
 
 **二、主题时间**
 
-**主题：**数聚运河  扬舟天下
+主题：数聚运河  扬舟天下
 
-**时间：**2024年7月-9月
+时间：2024年7月-9月
 
 **三、组织架构**
 
@@ -324,9 +324,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [1] Competition Link: https://www.marsbigdata.com/competition/details?id=3839107548872
 [2] Object Detection Datasets: https://docs.ultralytics.com/datasets/detect/
 [3] Performance Metrics Guide: https://docs.ultralytics.com/guides/yolo-performance-metrics/
-[4]	YOLOv8:https://docs.ultralytics.com/models/yolov8/
-[5]	https://docs.ultralytics.com/modes/predict/
-[6]	https://docs.ultralytics.com/yolov5/tutorials/tips_for_best_training_results
-[7]	https://docs.ultralytics.com/yolov5/tutorials/test_time_augmentation/
+[4] YOLOv8:https://docs.ultralytics.com/models/yolov8/
+[5] https://docs.ultralytics.com/modes/predict/
+[6] https://docs.ultralytics.com/yolov5/tutorials/tips_for_best_training_results
+[7] https://docs.ultralytics.com/yolov5/tutorials/test_time_augmentation/
 ```
 
