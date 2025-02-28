@@ -2,7 +2,7 @@
 
 **语言**
 
-[English](./README-EN.md)     [中文](./README.md)
+[English](./README.md)     [中文](./README_CN.md)
 
 # 1. 项目简介
 
